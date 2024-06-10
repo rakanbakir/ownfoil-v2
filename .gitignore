@@ -13,3 +13,4 @@ data
 
 # pyenv
 .python-version
+/app/.env
